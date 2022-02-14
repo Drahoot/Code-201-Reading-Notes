@@ -1,4 +1,4 @@
-### Objects
+## Objects
 
 - Property
 > a variable that is part of an described object
@@ -9,7 +9,7 @@
 - Key
 > a descriptive name of an value
 
-### Node
+## Node
 
 - DOM Tree 
 > stands for Document Object Model, that treats an HTML webpage as a structured tree framework typically ending with nodes
@@ -49,7 +49,7 @@
 - firstChild / lastChild(can be used in css)
 > select the first or last child of the current element
 
-# THE TERMS ELEMENTS AND ELEMENT NODE ARE USED INTERCHANGEABLY
+### THE TERMS ELEMENTS AND ELEMENT NODE ARE USED INTERCHANGEABLY
 
 Several methods let you create new nodes, add nodes to a tree, and remove nodes from a tree EX:
 - createElement()
